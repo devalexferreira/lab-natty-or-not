@@ -12,7 +12,7 @@ Neste podcast, utilizei o ChatGPT para criar o roteiro e a narrativa. Toda a nar
 
 ## 🚀 Resultados
 Confira como ficou o resultado final deste projeto
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/devalexferreira/lab-natty-or-not/blob/main/PODCAST.mp3)
 
 ## 💭 Reflexão
 Sem muitos esforços, utilizando apenas inteligência artificial, foi possivel trazer esse conteúdo. Fica a pergunta, como diferenciar conteúdo gerado por IA e o conteúdo que não é gerado por IA?!
